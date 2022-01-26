@@ -1,0 +1,6 @@
+cx-Freeze==6.10
+cx-Logging==3.0
+importlib-metadata==4.10.1
+lief==0.11.5
+pyglet==1.5.21
+zipp==3.7.0
